@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Vinícius Andrade
 
-<!--
-**DevAndrade27/DevAndrade27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – UNIP  
+💻 Apaixonado por tecnologia, interfaces bem-feitas e código limpo  
+🚀 Foco em desenvolvimento Front-End com ReactJS  
+📈 Estudando lógica de programação, componentização e integração com APIs REST
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo
+
+- HTML5 | CSS3 | JavaScript (ES6+)  
+- ReactJS | Git | GitHub  
+- Python (básico) | SQL (básico)  
+- Ferramentas: VS Code, Figma, Power BI  
+
+---
+
+## 📌 Projetos em destaque
+
+*(Ainda estou desenvolvendo meus projetos. Em breve, adicionarei aqui links para meus trabalhos com React e outras tecnologias.)*
+
+---
+
+## 💬 Vamos conversar?
+
+- 📧 vinandrade.santos@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vinicius-andrade)  
+- 🌍 [GitHub](https://github.com/DevAndrade27)
