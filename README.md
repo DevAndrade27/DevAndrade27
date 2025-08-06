@@ -11,8 +11,8 @@
 
 - HTML5 | CSS3 | JavaScript (ES6+)  
 - ReactJS | Git | GitHub  
-- Python (básico) | SQL (básico)  
-- Ferramentas: VS Code, Figma, Power BI  
+- Python (Intermediário) | SQL (Intermediário)  
+- Ferramentas: VS Code, Figma, Power BI, Google Colab.  
 
 ---
 
