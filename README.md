@@ -24,6 +24,6 @@
 
 ## 💬 Vamos conversar?
 
-- 📧 vinandrade.santos@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vinicius-andrade)  
+- 📧 viniciusandradedev27@hotmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/viniciusandrade-tech/)  
 - 🌍 [GitHub](https://github.com/DevAndrade27)
